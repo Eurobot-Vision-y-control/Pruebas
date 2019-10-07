@@ -3,11 +3,3 @@ Que hay de nuevo
 no j
 kdjifuabhbn
 jebkhfdsp   
-<<<<<<< Updated upstream
-EWKJGSVDAHGSA
-=======
-sdga
-
-g
-eg
->>>>>>> Stashed changes
